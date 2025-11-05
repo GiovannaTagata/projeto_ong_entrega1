@@ -27,7 +27,7 @@ O objetivo é construir um esqueleto sólido e organizado que será aprimorado n
 ├── projetos.html
 ├── cadastro.html
 └── /assets
-    └── /imagens
+    └── /images
 ```
 
 ## ✅ Critérios de Avaliação
